@@ -15,13 +15,6 @@ A full-stack Python web application to track daily expenses, categorize them, an
 
 > ⚠️ Hosted on Render free tier — may take ~30 seconds to wake up on first visit.
 
----
-
-## 📸 Screenshots
-
-| Dashboard | Monthly Report |
-|-----------|---------------|
-| ![dashboard](screenshots/dashboard.png) | ![report](screenshots/report.png) |
 
 ---
 
